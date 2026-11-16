@@ -1,5 +1,11 @@
 # UNISSUED — token launch research
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/afriansyah0204/unissued-token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard)
+[![reward](https://make.fun/badge/token-radar-01/afriansyah0204/unissued-token-radar/reward.svg)](https://make.fun/bounty/token-radar-01)
+
+Entered in [make.fun's Token Launch Radar bounty](https://make.fun/bounty/token-radar-01).
+
 An offline snapshot-based research dashboard for make.fun token-radar-01. MIT licensed.
 
 ## Run
